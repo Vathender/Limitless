@@ -1,6 +1,6 @@
 {
-    "name": "snow_login",
-    "short_name": "snow_login",
+    "name": "rive_animation",
+    "short_name": "rive_animation",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
